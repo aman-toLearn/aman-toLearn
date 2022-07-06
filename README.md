@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my portfoli.
+
 <!--
 **aman8094/aman8094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

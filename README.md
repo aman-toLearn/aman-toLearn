@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my portfoli.
 - - 📫 How to reach me:realaman09@gmail.com,Whatsaap- https://wa.me/+918094377204
---Glad we matched here:
+        Glad we matched here:
 <!--
 **aman8094/aman8094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

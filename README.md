@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-toLearn&label=Profile%20views&color=0e75b6&style=flat" alt="aman-toLearn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman8094" alt="aman8094" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman-toLearn" alt="aman-toLearn" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bhojak_aman" target="blank"><img src="https://img.shields.io/twitter/follow/bhojak_aman?logo=twitter&style=for-the-badge" alt="bhojak_aman" /></a> </p>
 
